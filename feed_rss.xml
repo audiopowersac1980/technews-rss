@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech News</title>
+    <link>https://www.technews.com</link>
+    <description>Las últimas novedades tecnológicas</description>
+
+    <atom:link href="https://audiopowersac1980.github.io/technews-rss/feed_rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Nuevo procesador revoluciona la industria</title>
+      <link>https://www.technews.com/articulo1</link>
+      <description>Un nuevo chip promete duplicar el rendimiento con menor consumo energético.</description>
+      <pubDate>Fri, 19 Apr 2024 10:00:00 +0000</pubDate>
+      <guid>https://www.technews.com/articulo1</guid>
+    </item>
+
+    <item>
+      <title>La inteligencia artificial llega a los hogares</title>
+      <link>https://www.technews.com/articulo2</link>
+      <description>Asistentes con IA están revolucionando la forma en que vivimos.</description>
+      <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.technews.com/articulo2</guid>
+    </item>
+
+    <item>
+      <title>Comparativa de smartphones 2024</title>
+      <link>https://www.technews.com/articulo3</link>
+      <description>Analizamos los últimos modelos del mercado y sus características clave.</description>
+      <pubDate>Wed, 17 Apr 2024 15:30:00 +0000</pubDate>
+      <guid>https://www.technews.com/articulo3</guid>
+    </item>
+
+  </channel>
+</rss>
